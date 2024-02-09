@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A6469B3F-F901-400A-A54C-783EBCCB6073}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hotspot Xamarin.HotReload.WrongLinkerErrorInfoBar.Hotspot.HideInfoBar="True" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_3_API_30" AndroidDesignerPreferredTheme="AppTheme" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Hotspot/MainActivity.cs" Line="99" Column="96" />
+      <File FileName="Hotspot/Resources/layout/activity_main.xml" Line="17" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotspot" expanded="True">
+            <Node name="Hotspot" selected="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>test</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_API_30" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+</Properties>
